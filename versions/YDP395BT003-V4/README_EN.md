@@ -31,7 +31,7 @@
 
 OSPTEK **3.95″ 480×480 TFT** is an **RGB** color display module driven by **ST7701S** (panel init over 3-wire SPI), with touch controller **FT6336U**. It suits square HMI, instruments, and mid-size interactive panels.
 
-Spec ID (repository name): `3.95-tft-480x480-rgb-st7701`
+Spec ID (repository name): `tft-3.95-480x480-rgb-st7701`
 
 Current module version: **YDP395BT003-V4**. Electrical and mechanical details follow [`docs/YDP395BT003-V4.pdf`](./docs/YDP395BT003-V4.pdf).
 
@@ -52,13 +52,13 @@ Current module version: **YDP395BT003-V4**. Electrical and mechanical details fo
 
 | Description | Path |
 | ---- | ---- |
-| ESP32-S3 · ST7701 RGB + LVGL9 (touch FT6336U, `esp_lcd_touch_ft6336u`) | [`examples/esp32s3-3.95-tft-480x480-rgb-st7701-bringup/`](./examples/esp32s3-3.95-tft-480x480-rgb-st7701-bringup/) |
-| ESP32-P4 · ST7701 RGB + LVGL9 (touch via `esp_lcd_touch_ft6336u`) | [`examples/esp32p4-3.95-tft-480x480-rgb-st7701-bringup/`](./examples/esp32p4-3.95-tft-480x480-rgb-st7701-bringup/) |
+| ESP32-S3 · ST7701 RGB + LVGL9 (touch FT6336U, `esp_lcd_touch_ft6336u`) | [`examples/esp32s3-tft-3.95-480x480-rgb-st7701-bringup/`](./examples/esp32s3-tft-3.95-480x480-rgb-st7701-bringup/) |
+| ESP32-P4 · ST7701 RGB + LVGL9 (touch via `esp_lcd_touch_ft6336u`) | [`examples/esp32p4-tft-3.95-480x480-rgb-st7701-bringup/`](./examples/esp32p4-tft-3.95-480x480-rgb-st7701-bringup/) |
 
 ## Repository layout
 
 ```text
-3.95-tft-480x480-rgb-st7701/                                # repo root (nav: ../../README_EN.md)
+tft-3.95-480x480-rgb-st7701/                                # repo root (nav: ../../README_EN.md)
 └── versions/
     └── YDP395BT003-V4/                                # full materials for this part number
         ├── README.md
@@ -82,8 +82,8 @@ Current module version: **YDP395BT003-V4**. Electrical and mechanical details fo
 
 ### Samples
 
-- [ESP32-S3 ST7701 RGB + LVGL9](./examples/esp32s3-3.95-tft-480x480-rgb-st7701-bringup/)
-- [ESP32-P4 ST7701 RGB + LVGL9](./examples/esp32p4-3.95-tft-480x480-rgb-st7701-bringup/)
+- [ESP32-S3 ST7701 RGB + LVGL9](./examples/esp32s3-tft-3.95-480x480-rgb-st7701-bringup/)
+- [ESP32-P4 ST7701 RGB + LVGL9](./examples/esp32p4-tft-3.95-480x480-rgb-st7701-bringup/)
 
 ## Buy
 

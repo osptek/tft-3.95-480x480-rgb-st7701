@@ -29,7 +29,7 @@ This repository holds materials for the **3.95″ 480×480 TFT (RGB · ST7701)**
 
 The **root README is the navigation page**. Use the table below for a quick scan; open **Full docs** to enter that **part-number folder** under `versions/` (product page, datasheets, and examples live there).
 
-Repo id: `3.95-tft-480x480-rgb-st7701`
+Repo id: `tft-3.95-480x480-rgb-st7701`
 
 ---
 

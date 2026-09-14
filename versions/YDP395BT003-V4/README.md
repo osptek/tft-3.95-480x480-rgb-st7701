@@ -31,7 +31,7 @@
 
 OSPTEK **3.95 寸 480×480 TFT** 是一款 **RGB** 接口彩色显示模组，显示驱动为 **ST7701S**（面板初始化经 3-wire SPI），触摸驱动为 **FT6336U**。适合方形 HMI、仪表与中尺寸交互面板等场景。
 
-规格标识（仓库名）：`3.95-tft-480x480-rgb-st7701`
+规格标识（仓库名）：`tft-3.95-480x480-rgb-st7701`
 
 当前模组版本：**YDP395BT003-V4**。电气与外形细节以 [`docs/YDP395BT003-V4.pdf`](./docs/YDP395BT003-V4.pdf) 为准。
 
@@ -52,13 +52,13 @@ OSPTEK **3.95 寸 480×480 TFT** 是一款 **RGB** 接口彩色显示模组，�
 
 | 说明 | 路径 |
 | ---- | ---- |
-| ESP32-S3 · ST7701 RGB + LVGL9（触摸 FT6336U，`esp_lcd_touch_ft6336u`） | [`examples/esp32s3-3.95-tft-480x480-rgb-st7701-bringup/`](./examples/esp32s3-3.95-tft-480x480-rgb-st7701-bringup/) |
-| ESP32-P4 · ST7701 RGB + LVGL9（触摸 FT6336U，`esp_lcd_touch_ft6336u`） | [`examples/esp32p4-3.95-tft-480x480-rgb-st7701-bringup/`](./examples/esp32p4-3.95-tft-480x480-rgb-st7701-bringup/) |
+| ESP32-S3 · ST7701 RGB + LVGL9（触摸 FT6336U，`esp_lcd_touch_ft6336u`） | [`examples/esp32s3-tft-3.95-480x480-rgb-st7701-bringup/`](./examples/esp32s3-tft-3.95-480x480-rgb-st7701-bringup/) |
+| ESP32-P4 · ST7701 RGB + LVGL9（触摸 FT6336U，`esp_lcd_touch_ft6336u`） | [`examples/esp32p4-tft-3.95-480x480-rgb-st7701-bringup/`](./examples/esp32p4-tft-3.95-480x480-rgb-st7701-bringup/) |
 
 ## 仓库结构
 
 ```text
-3.95-tft-480x480-rgb-st7701/                                # 仓库根（导航见 ../../README.md）
+tft-3.95-480x480-rgb-st7701/                                # 仓库根（导航见 ../../README.md）
 └── versions/
     └── YDP395BT003-V4/                                # 本料号完整资料
         ├── README.md
@@ -82,8 +82,8 @@ OSPTEK **3.95 寸 480×480 TFT** 是一款 **RGB** 接口彩色显示模组，�
 
 ### 示例工程
 
-- [ESP32-S3 ST7701 RGB + LVGL9](./examples/esp32s3-3.95-tft-480x480-rgb-st7701-bringup/)
-- [ESP32-P4 ST7701 RGB + LVGL9](./examples/esp32p4-3.95-tft-480x480-rgb-st7701-bringup/)
+- [ESP32-S3 ST7701 RGB + LVGL9](./examples/esp32s3-tft-3.95-480x480-rgb-st7701-bringup/)
+- [ESP32-P4 ST7701 RGB + LVGL9](./examples/esp32p4-tft-3.95-480x480-rgb-st7701-bringup/)
 
 ## 购买链接
 
