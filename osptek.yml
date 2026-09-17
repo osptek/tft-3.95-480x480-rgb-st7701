@@ -6,6 +6,7 @@ panel: tft
 resolution: 480x480
 interface: [rgb]
 shape: rect
+corner: rounded
 
 versions:
   - id: YDP395BT003-V4
