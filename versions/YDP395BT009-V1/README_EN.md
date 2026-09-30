@@ -33,7 +33,7 @@ OSPTEK **3.95″ 480×480 TFT** is an **RGB** color display module driven by **S
 
 Spec ID (repository name): `tft-3.95-480x480-rgb-st7701`
 
-Current module version: **YDP395BT003-V4**. Electrical and mechanical details follow [`docs/YDP395BT003-V4.pdf`](./docs/YDP395BT003-V4.pdf).
+Current module version: **YDP395BT009-V1**. Electrical and mechanical details follow [`docs/YDP395BT009-V1.pdf`](./docs/YDP395BT009-V1.pdf).
 
 ## Specifications
 
@@ -60,7 +60,7 @@ Current module version: **YDP395BT003-V4**. Electrical and mechanical details fo
 ```text
 tft-3.95-480x480-rgb-st7701/                                # repo root (nav: ../../README_EN.md)
 └── versions/
-    └── YDP395BT003-V4/                                # full materials for this part number
+    └── YDP395BT009-V1/                                # full materials for this part number
         ├── README.md
         ├── README_EN.md
         ├── images/
@@ -74,8 +74,8 @@ tft-3.95-480x480-rgb-st7701/                                # repo root (nav: ..
 
 | Resource | Link |
 | ---- | ---- |
-| Product datasheet (YDP395BT003-V4) | [`docs/YDP395BT003-V4.pdf`](./docs/YDP395BT003-V4.pdf) |
-| Assembly CAD (YDP395BT003-V4) | [`docs/YDP395BT003-V4.dwg`](./docs/YDP395BT003-V4.dwg) |
+| Product datasheet (YDP395BT009-V1) | [`docs/YDP395BT009-V1.pdf`](./docs/YDP395BT009-V1.pdf) |
+| Assembly CAD (YDP395BT009-V1) | [`docs/YDP395BT009-V1.dwg`](./docs/YDP395BT009-V1.dwg) |
 | Driver IC datasheet (ST7701S) | [`docs/ST7701S_SPEC_V1.3.pdf`](./docs/ST7701S_SPEC_V1.3.pdf) |
 | Touch IC datasheet (FT6336U) | [`docs/FT6336U_DataSheet_V1.1.pdf`](./docs/FT6336U_DataSheet_V1.1.pdf) |
 | Init sequence (text) | [`docs/BOE3.95_480x480_ST7701S_init.txt`](./docs/BOE3.95_480x480_ST7701S_init.txt) |

@@ -9,7 +9,7 @@ shape: rect
 corner: rounded
 
 versions:
-  - id: YDP395BT003-V4
+  - id: YDP395BT009-V1
     driver: ST7701S
     touch: FT6336U
     note: none

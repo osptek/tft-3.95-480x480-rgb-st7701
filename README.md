@@ -17,7 +17,7 @@
 
 - [说明](#说明)
 - [版本一览](#版本一览)
-- [YDP395BT003-V4](#ydp395bt003-v4)
+- [YDP395BT009-V1](#ydp395bt009-v1)
 - [购买链接](#购买链接)
 - [技术支持](#技术支持)
 
@@ -37,17 +37,17 @@
 
 | 版本 | 宣传图 | 简介 | 完整资料 |
 | ---- | ------ | ---- | -------- |
-| YDP395BT003-V4 | <img alt="YDP395BT003-V4" src="./versions/YDP395BT003-V4/images/product.png" width="120" /> | [简介](#ydp395bt003-v4) | [完整资料](./versions/YDP395BT003-V4/) |
+| YDP395BT009-V1 | <img alt="YDP395BT009-V1" src="./versions/YDP395BT009-V1/images/product.png" width="120" /> | [简介](#ydp395bt009-v1) | [完整资料](./versions/YDP395BT009-V1/) |
 
 ---
 
-## YDP395BT003-V4
+## YDP395BT009-V1
 
-<p align="center"><img alt="YDP395BT003-V4" src="./versions/YDP395BT003-V4/images/product.png" width="320" /></p>
+<p align="center"><img alt="YDP395BT009-V1" src="./versions/YDP395BT009-V1/images/product.png" width="320" /></p>
 
-**说明：** 带触摸（FT6336U）。
+**说明：** 带触摸（FT6336U）。原料号 YDP395BT003-V4，仅换供应商。
 
-完整产品页、规格书与示例：[versions/YDP395BT003-V4/](./versions/YDP395BT003-V4/)
+完整产品页、规格书与示例：[versions/YDP395BT009-V1/](./versions/YDP395BT009-V1/)
 
 ---
 

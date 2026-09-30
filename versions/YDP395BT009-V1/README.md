@@ -33,7 +33,7 @@ OSPTEK **3.95 寸 480×480 TFT** 是一款 **RGB** 接口彩色显示模组，�
 
 规格标识（仓库名）：`tft-3.95-480x480-rgb-st7701`
 
-当前模组版本：**YDP395BT003-V4**。电气与外形细节以 [`docs/YDP395BT003-V4.pdf`](./docs/YDP395BT003-V4.pdf) 为准。
+当前模组版本：**YDP395BT009-V1**。电气与外形细节以 [`docs/YDP395BT009-V1.pdf`](./docs/YDP395BT009-V1.pdf) 为准。
 
 ## 规格参数
 
@@ -60,7 +60,7 @@ OSPTEK **3.95 寸 480×480 TFT** 是一款 **RGB** 接口彩色显示模组，�
 ```text
 tft-3.95-480x480-rgb-st7701/                                # 仓库根（导航见 ../../README.md）
 └── versions/
-    └── YDP395BT003-V4/                                # 本料号完整资料
+    └── YDP395BT009-V1/                                # 本料号完整资料
         ├── README.md
         ├── README_EN.md
         ├── images/
@@ -74,8 +74,8 @@ tft-3.95-480x480-rgb-st7701/                                # 仓库根（导航
 
 | 资料 | 链接 |
 | ---- | ---- |
-| 产品规格书（YDP395BT003-V4） | [`docs/YDP395BT003-V4.pdf`](./docs/YDP395BT003-V4.pdf) |
-| 总成图 CAD（YDP395BT003-V4） | [`docs/YDP395BT003-V4.dwg`](./docs/YDP395BT003-V4.dwg) |
+| 产品规格书（YDP395BT009-V1） | [`docs/YDP395BT009-V1.pdf`](./docs/YDP395BT009-V1.pdf) |
+| 总成图 CAD（YDP395BT009-V1） | [`docs/YDP395BT009-V1.dwg`](./docs/YDP395BT009-V1.dwg) |
 | 驱动 IC 数据手册（ST7701S） | [`docs/ST7701S_SPEC_V1.3.pdf`](./docs/ST7701S_SPEC_V1.3.pdf) |
 | 触摸 IC 数据手册（FT6336U） | [`docs/FT6336U_DataSheet_V1.1.pdf`](./docs/FT6336U_DataSheet_V1.1.pdf) |
 | 初始化序列（文本） | [`docs/BOE3.95_480x480_ST7701S_init.txt`](./docs/BOE3.95_480x480_ST7701S_init.txt) |

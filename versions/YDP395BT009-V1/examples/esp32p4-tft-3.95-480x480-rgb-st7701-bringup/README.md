@@ -1,6 +1,6 @@
 # ESP32-P4 · ST7701 RGB + FT6336U 触摸 bringup
 
-面向 **YDP395BT003-V4** 的点亮例程：ESP32-P4 + ST7701（RGB）+ 本地组件 `esp_lcd_touch_ft6336u`（FT6x36）+ LVGL9 Widgets Demo。
+面向 **YDP395BT009-V1** 的点亮例程：ESP32-P4 + ST7701（RGB）+ 本地组件 `esp_lcd_touch_ft6336u`（FT6x36）+ LVGL9 Widgets Demo。
 
 ## 依赖
 

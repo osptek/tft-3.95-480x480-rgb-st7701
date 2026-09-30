@@ -17,7 +17,7 @@
 
 - [About](#about)
 - [Versions](#versions)
-- [YDP395BT003-V4](#ydp395bt003-v4)
+- [YDP395BT009-V1](#ydp395bt009-v1)
 - [Where to Buy](#where-to-buy)
 - [Support](#support)
 
@@ -37,17 +37,17 @@ Repo id: `tft-3.95-480x480-rgb-st7701`
 
 | Version | Image | Summary | Full docs |
 | ------- | ----- | ------- | --------- |
-| YDP395BT003-V4 | <img alt="YDP395BT003-V4" src="./versions/YDP395BT003-V4/images/product.png" width="120" /> | [Summary](#ydp395bt003-v4) | [Full docs](./versions/YDP395BT003-V4/) |
+| YDP395BT009-V1 | <img alt="YDP395BT009-V1" src="./versions/YDP395BT009-V1/images/product.png" width="120" /> | [Summary](#ydp395bt009-v1) | [Full docs](./versions/YDP395BT009-V1/) |
 
 ---
 
-## YDP395BT003-V4
+## YDP395BT009-V1
 
-<p align="center"><img alt="YDP395BT003-V4" src="./versions/YDP395BT003-V4/images/product.png" width="320" /></p>
+<p align="center"><img alt="YDP395BT009-V1" src="./versions/YDP395BT009-V1/images/product.png" width="320" /></p>
 
-**Notes:** With touch (FT6336U).
+**Notes:** With touch (FT6336U). Former part number YDP395BT003-V4; supplier change only.
 
-Full product page, datasheets, and examples: [versions/YDP395BT003-V4/](./versions/YDP395BT003-V4/)
+Full product page, datasheets, and examples: [versions/YDP395BT009-V1/](./versions/YDP395BT009-V1/)
 
 ---
 
